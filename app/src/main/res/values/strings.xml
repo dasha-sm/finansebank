@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FinanceFlow</string>
+    
+    <!-- Auth -->
+    <string name="login">Вход</string>
+    <string name="register">Регистрация</string>
+    <string name="email">Email</string>
+    <string name="password">Пароль</string>
+    <string name="name">Имя</string>
+    <string name="login_button">Войти</string>
+    <string name="register_button">Зарегистрироваться</string>
+    <string name="no_account">Нет аккаунта?</string>
+    <string name="have_account">Уже есть аккаунт?</string>
+    
+    <!-- Main -->
+    <string name="balance">Баланс</string>
+    <string name="income">Доходы</string>
+    <string name="expense">Расходы</string>
+    <string name="transactions">Операции</string>
+    <string name="add_transaction">Добавить операцию</string>
+    <string name="statistics">Статистика</string>
+    <string name="categories">Категории</string>
+    <string name="budgets">Бюджеты</string>
+    <string name="goals">Финансовые цели</string>
+    <string name="profile">Профиль</string>
+    <string name="admin_panel">Админ-панель</string>
+    
+    <!-- Transaction -->
+    <string name="amount">Сумма</string>
+    <string name="category">Категория</string>
+    <string name="date">Дата</string>
+    <string name="description">Описание</string>
+    <string name="type_income">Доход</string>
+    <string name="type_expense">Расход</string>
+    <string name="save">Сохранить</string>
+    <string name="cancel">Отмена</string>
+    
+    <!-- Security -->
+    <string name="pin_code">PIN-код</string>
+    <string name="biometric_auth">Биометрическая аутентификация</string>
+    <string name="enter_pin">Введите PIN-код</string>
+    <string name="create_pin">Создайте PIN-код</string>
+    <string name="confirm_pin">Подтвердите PIN-код</string>
+    <string name="pin_mismatch">PIN-коды не совпадают</string>
+    
+    <!-- Admin -->
+    <string name="system_categories">Системные категории</string>
+    <string name="users">Пользователи</string>
+    <string name="analytics">Аналитика</string>
+    <string name="notifications">Уведомления</string>
+    <string name="block_user">Заблокировать</string>
+    <string name="unblock_user">Разблокировать</string>
+    <string name="reset_password">Сбросить пароль</string>
+    <string name="user_management">Управление пользователями</string>
+    <string name="aggregated_stats">Агрегированная статистика</string>
+    
+    <!-- Goals -->
+    <string name="financial_goals">Финансовые цели</string>
+    <string name="goal_name">Название цели</string>
+    <string name="target_amount">Целевая сумма</string>
+    <string name="current_amount">Текущая сумма</string>
+    <string name="deadline">Срок выполнения</string>
+    <string name="add_goal">Добавить цель</string>
+    <string name="goal_progress">Прогресс</string>
+    <string name="completed">Завершено</string>
+    <string name="active">Активно</string>
+    
+    <!-- Common -->
+    <string name="delete">Удалить</string>
+    <string name="edit">Редактировать</string>
+    <string name="add">Добавить</string>
+    <string name="settings">Настройки</string>
+    <string name="logout">Выйти</string>
+    <string name="sync">Синхронизация</string>
+    <string name="backup">Резервная копия</string>
+</resources>
+
+
